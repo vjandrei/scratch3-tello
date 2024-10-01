@@ -33,6 +33,7 @@ const message = {
         'it': 'decollo',
         'lv': 'pacelties',
         'ua': 'зліт',
+        'fi': 'lennä',
     },
     land: {
         'ja': '着陸する',
@@ -47,6 +48,7 @@ const message = {
         'it': 'atterraggio',
         'lv': 'nolaisties',
         'ua': 'посадити',
+        'fi': 'laskeudu',
     },
     up: {
         'ja': '上に [X]cm 上がる',
@@ -61,6 +63,7 @@ const message = {
         'it': 'alzarsi di [X] cm',
         'lv': 'uz augšu [X] cm',
         'ua': 'вгору [X] см',
+        'fi': 'ylös [X] cm',
     },
     down: {
         'ja': '下に [X]cm 下がる',
@@ -75,6 +78,7 @@ const message = {
         'it': 'abbasarsi di [X] cm',
         'lv': 'uz leju [X] cm',
         'ua': 'вниз [X] см',
+        'fi': 'alas [X] cm',
     },
     left: {
         'ja': '左に [X]cm 動く',
@@ -89,6 +93,8 @@ const message = {
         'it': 'muovi a sinistra di [X] cm',
         'lv': 'pa kreisi [X] cm',
         'ua': 'ліворуч [X] см',
+        'fi': 'siirry vasemalle [X] cm',
+        
         
     },
     right: {
@@ -104,6 +110,7 @@ const message = {
         'it': 'muovi a destra di [X] cm',
         'lv': 'pa labi [X] cm',
         'ua': 'праворуч [X] см',
+        'fi': 'siirry oikealle [X] cm',
     },
     forward: {
         'ja': '前に [X]cm 進む',
@@ -118,6 +125,7 @@ const message = {
         'it': 'muovi in avanti di [X] cm',
         'lv': 'uz priekšu [X] cm',
         'ua': 'вперед [X] см',
+        'fi': 'eteenpäin [X] cm',
     },
     back: {
         'ja': '後ろに [X]cm 下がる',
@@ -132,6 +140,7 @@ const message = {
         'it': 'muovi indietro di [X] cm',
         'lv': 'atpakaļ [X] cm',
         'ua': 'назад [X] см',
+        'fi': 'taaksepäin [X] cm'
     },
     cw: {
         'ja': '[X] 度右に回る',
